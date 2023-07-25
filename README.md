@@ -4,8 +4,8 @@
 #### A little bit about me:
 
 - :computer: My major is `Algorithmic Computer Science`
-- :black_nib: Languages I code in the most: `C++, Python, Java`
-- 👯 I'm currently looking for a job to collaborate on:`AI, Data Science, Software Engeneering`
+- :black_nib: Languages I code in the most: `C++, Python, Java, Dart`
+- 👯 I'm currently looking for a job to collaborate on:`AI, Mobile App Development`
 - ⚡ I'm a fast learner that is not afraid to take difficult tasks.
 
 ### Feel free to see my work :books:
