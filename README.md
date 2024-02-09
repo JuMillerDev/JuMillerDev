@@ -1,4 +1,4 @@
-## Hi there! 👋:smile:
+## Hi there! 👋
 
 ### My name is :sparkles:Yuliia:sparkles: and I'm a student of `Wroclaw University of Science and Technology` :raised_hands:
 #### A little bit about me:
