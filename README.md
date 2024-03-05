@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-### My name is :sparkles:Yuliia:sparkles: and I'm a student of `Wroclaw University of Science and Technology` :raised_hands:
+### My name is :sparkles:Yuliia:sparkles: and I'm a graduate of `algorithmic Computer Science` at `Wroclaw University of Science and Technology` :raised_hands:
 #### A little bit about me:
 
 - :computer: My major is `Algorithmic Computer Science`
