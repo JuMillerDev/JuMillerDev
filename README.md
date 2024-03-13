@@ -4,7 +4,7 @@
 #### A little bit about me:
 
 - :computer: My major is `Algorithmic Computer Science`
-- :black_nib: Languages I code in the most: `C++, Python, Java, Dart, Web (HTML, SCSS, CSS, Typescript, Angular)`
+- :black_nib: Languages I code in the most: `C++, Python, Java, Dart, Web (HTML, SCSS, CSS, Typescript, Angular, React)`
 - 👯 I'm currently looking for a job to collaborate on:`Front-end website development`
 - ⚡ I'm a fast learner that is not afraid to take difficult tasks.
 
